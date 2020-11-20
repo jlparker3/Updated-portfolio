@@ -14,6 +14,7 @@ https://css-tricks.com/snippets/css/typewriter-effect/ by Geoff Graham
 
 
 # Screenshot of working application
+<img width="1440" alt="Screen Shot 2020-11-20 at 9 04 30 AM" src="https://user-images.githubusercontent.com/68556793/99816199-f718c980-2b10-11eb-8bbe-b9391586e05d.png">
 
 
 
