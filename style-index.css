@@ -162,15 +162,17 @@ footer {
 	justify-content: center;
 	align-items: center;
 }
-
+/* contact me header settings */
 .contact-me{
 	position: relative;
 	left:-4%;
 }
-
+/* contact form settings */
 .contact{
 	margin-bottom:10%;
 }
+
+
 @media (max-width: 992px) {
 	.photo {
 		width: 60%;
@@ -193,11 +195,7 @@ footer {
 	}
 }
 @media (max-width: 375px) {
-	/* .contact{
-		 position: relative;
-		 right:60%;
-		 
-	} */
+	
 	.contact-me{
 		position: relative;
 		left:-15%;
@@ -208,4 +206,11 @@ footer {
 		left:1%;
 		width: 100%;
 	}
+
 }
+@media (max-width: 576px) {
+	#icon{
+		display:none;
+	}
+}
+
